@@ -1,0 +1,26 @@
+{
+  "app_name": "Baal Shakha",
+  "version": "1.0.0",
+  "description": "Baal Shakha is an app designed exclusively for Rashtriya SwayamSevak Sangh (RSS), offering a platform for interactive and informative engagement.",
+  "developer": {
+    "name": "Qflexi Team",
+    "email": "developer@qflexi.com",
+    "website": "https://www.qflexi.com"
+  },
+  "release_date": "2024-01-01",
+  "platforms": ["iOS", "Android"],
+  "categories": ["Productivity", "Entertainment"],
+  "screenshots": [
+    "https://www.example.com/screenshots/screenshot1.png",
+    "https://www.example.com/screenshots/screenshot2.png",
+    "https://www.example.com/screenshots/screenshot3.png"
+  ],
+  "download_links": {
+    "iOS": "https://itunes.apple.com/app/my-awesome-app/id123456789",
+    "Android": "https://play.google.com/store/apps/details?id=com.example.myawesomeapp"
+  },
+  "ratings": {
+    "average": 4.8,
+    "total": 500
+  }
+}
